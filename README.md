@@ -1,14 +1,14 @@
 Hi there! 👋 I’m Mohd Safed Khan
 <!---!Header--->
 
-About Me
+**About Me**
 
 🎓 Recent graduate in Bachelor's of Computer Application
 <!---💻 Passionate about [Your Interests, e.g., web development, data science]--->
 <!---🌱 Currently learning [Technologies or Skills you’re learning]--->
 📫 How to reach me: Safedkhan911@gmail.com
 
-Skills
+**Skills**
 
 Languages: C, JavaScript, C++
 Frameworks: React
